@@ -1,62 +1,50 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hisham1911/hisham1911/main/profile-hero.png" alt="Hisham Mohamed Ahmed — Full-Stack Web Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/hisham1911/hisham1911/main/profile-hero.png" alt="Hisham Mohamed Ahmed — Full-Stack Developer" width="100%" />
 
 <br />
 
-<a href="https://github.com/hisham1911"><img src="https://img.shields.io/badge/GitHub-hisham1911-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/hisham1911?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20work-2563EB?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_live_work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hishammohamed.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisham-mohamed841/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshammohd01@gmail.com)
 
 </div>
 
-## Building useful software, from interface to API.
+## Full-Stack developer building practical systems and web products
 
-I’m **Hisham Mohamed Ahmed**, a Full-Stack Web Developer focused on creating practical web products with clean interfaces, reliable APIs, and maintainable code.
+I’m **Hisham Mohamed Ahmed**, a Full-Stack Developer who turns real requirements into working products across the interface, API, database, and deployment.
 
-My work sits at the intersection of **React, Angular, .NET, and Node.js**. I care about the details that turn a working project into a dependable one: clear structure, thoughtful user flows, useful documentation, and a smooth path from development to deployment.
+My recent work includes certificate verification, restaurant operations, digital assessments, bilingual company websites, and education platforms. These projects were delivered with different stacks—including **ASP.NET Core, Node.js, Laravel, React, and Next.js**—based on what each product needed.
 
-## What I work with
+## Selected projects
 
-| Frontend | Backend | Engineering tools |
+| Project | What it does | Delivery |
 |:--|:--|:--|
-| React · Angular · TypeScript | C# · .NET · Node.js · Express | Git · GitHub · Postman |
-| JavaScript · HTML · CSS · Redux | REST APIs · MongoDB | VS Code · Responsive UI |
+| **[AZ International](https://azinternational-eg.com/)** | Company website connected to certificate management, public verification, expiry tracking, and internal administration | ASP.NET Core · Next.js · PostgreSQL |
+| **[Arslan Tech](https://arslan-tech-next-xod2.vercel.app/)** | Bilingual technology-services website with clear service pages, responsive enquiry paths, and search-focused content | React · TypeScript · TanStack Start |
+| **[Kasser Pro](https://kasserpro-frontend.vercel.app/)** | Restaurant POS for dine-in, delivery, and takeaway orders, with customers, discounts, VAT, payments, order status, and printable invoices | ASP.NET Core · React · PostgreSQL |
+| **[Teacher Platform](https://teacher-platform-vert.vercel.app/)** | Arabic assessment platform with question banks, self-paced tests, live competitions, reports, surveys, and certificates | ASP.NET Core · React · TypeScript · SignalR |
+| **[Al-Noor Quran Academy](https://quran-academy-n98jiwf92-drheshammohd11-gmailcoms-projects.vercel.app/)** | Academy website with programme pages, trial-lesson booking, protected administration, and email workflows | Next.js · Supabase · PostgreSQL |
+| **Eamar — [version 1](https://eamar-6q7pvbtw6-drheshammohd11-gmailcoms-projects.vercel.app/) · [version 2](https://eamar-website-ccd376f1a-drheshammohd11-gmailcoms-projects.vercel.app/)** | Two Arabic contractor website directions using real project media, clear service explanations, and a direct quotation journey | Next.js · TypeScript · SEO |
 
-## Selected work
+## Technologies used across my work
 
-<div align="center">
+- **Frontend:** React, Next.js, TypeScript, JavaScript, responsive and Arabic-first interfaces
+- **Backend:** ASP.NET Core, Node.js, Express, Laravel, REST APIs, authentication and business rules
+- **Data:** PostgreSQL, SQLite, Supabase, Entity Framework Core
+- **Delivery:** Git, GitHub, Vercel, Render, testing, deployment and production fixes
 
-| Project focus | What it demonstrates |
-|:--|:--|
-| **Full-Stack Products** | End-to-end features, API integration, business logic, and data-driven experiences |
-| **E-commerce Interfaces** | Product discovery, responsive layouts, and practical user journeys |
-| **React & Angular Apps** | Reusable components, state management, and modern frontend patterns |
-| **Engineering Foundations** | Algorithms, JavaScript fundamentals, and continuous technical learning |
+## How I work
 
-</div>
+- Understand the real workflow before choosing the implementation.
+- Connect data, APIs, interface, and deployment as one product.
+- Keep the experience clear on desktop and mobile.
+- Adapt to the project’s stack and deliver the requested result.
 
-> The strongest projects will be made public selectively, documented properly, and pinned here as a focused portfolio.
+## Available for opportunities
 
-## Current direction
+I’m open to Full-Stack development roles, freelance projects, and relocation opportunities.
 
-I’m improving how I design, test, document, and ship web applications — with a growing focus on **clean architecture, API quality, testing, deployment, and system design**.
-
-## Principles
-
-**Clarity over cleverness.** Code should be easy to read, explain, and maintain.  
-**User experience matters.** A technically correct product should also feel simple to use.  
-**Ship with evidence.** Good work is supported by documentation, tests, and a working demo whenever possible.
-
-## Let’s build something useful
-
-I’m open to meaningful collaboration and opportunities in web development and software engineering.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hisham1911)
-
-<br />
-
-<sub>Thanks for visiting — the best work is still being built.</sub>
-
-</div>
+**Portfolio:** [hishammohamed.vercel.app](https://hishammohamed.vercel.app/)  
+**Email:** [heshammohd01@gmail.com](mailto:heshammohd01@gmail.com)  
+**LinkedIn:** [linkedin.com/in/hisham-mohamed841](https://www.linkedin.com/in/hisham-mohamed841/)
